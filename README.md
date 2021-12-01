@@ -20,3 +20,5 @@ This analysis will assist the School Board and Superintendent in making decision
 #### Scores by school size
 
 #### Scores by school type
+
+## Summary:

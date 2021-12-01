@@ -27,3 +27,5 @@ After modifications the results for schools, other than Thomas High School, were
 Replacing the ninth-grade scores affect Math and reading scores by grade, Scores by school spending, Scores by school size, Scores by school type to the very minimal level.
 
 ## Summary:
+As shown above the difference results for the schools under consideration before and after the modifications in Thomas Hight School test scores are insignificant.
+Therefore, both the analysis could be taken into consideration by the School Board to support them with the decisions regarding the school budgets and priorities.

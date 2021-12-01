@@ -11,6 +11,12 @@ District summary before modifications
 ![district_summary_df_compromised](https://user-images.githubusercontent.com/42978221/144170990-e845a12d-7e9a-41ec-80a7-ec85c5e32115.png)
 District summary after modifications
 ![district_summary_df_modified](https://user-images.githubusercontent.com/42978221/144171012-728fe9fe-23d5-4329-98c6-05ffe664eecf.png)
+After the adjustment 
+* Averagage Math Score went down by 0.1
+* % Passing Math - down by 0.2
+* % Passing reading - down by 0.3
+* % Overall Passing - down by 0.1
+
 ### School summary
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?

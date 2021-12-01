@@ -7,7 +7,10 @@ This analysis will assist the School Board and Superintendent in making decision
 - Additionally, since the school board has notified Maria that the [students_complete.csv](https://github.com/Cryptotwister/School_District_Analysis/blob/main/Resources/students_complete.csv) file shows evidence of academic dishonesty (reading and math grades for Thomas High School ninth graders appear to have been altered.), we need to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once it's done, we need to repeat the school district analysis and write up a report to describe how these changes affected the overall analysis.
 ## Results:
 ### District summary
-
+District summary before modifications
+![district_summary_df_compromised](https://user-images.githubusercontent.com/42978221/144170990-e845a12d-7e9a-41ec-80a7-ec85c5e32115.png)
+District summary after modifications
+![district_summary_df_modified](https://user-images.githubusercontent.com/42978221/144171012-728fe9fe-23d5-4329-98c6-05ffe664eecf.png)
 ### School summary
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?

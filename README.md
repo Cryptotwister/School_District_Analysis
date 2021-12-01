@@ -18,6 +18,11 @@ After the adjustment
 * % Overall Passing - down by 0.1
 
 ### School summary
+After modifications the results for schools, other than Thomas High School, were not affected.
+School summary before modifications
+![school_summary_df_compromised](https://user-images.githubusercontent.com/42978221/144173075-4c5034c9-272d-42bf-9069-a699d4dc3fd2.png)
+School summary after modifications
+![school_summary_df_modified](https://user-images.githubusercontent.com/42978221/144173100-637355f2-e85d-43b0-999d-d6f7f84a8074.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
